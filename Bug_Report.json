@@ -18,7 +18,7 @@
         ],
         "Expected result": "Осуществляется переход на страницу оплаты 'Сбербанка'",
         "Actual result": "Появляется уведомление 'Время ожидания ответа от сервера истекло'",
-        "Attachments": "https://drive.google.com/..."
+        "Attachments": "https://drive.google.com/...",
         "Severity": "Critical",
-        "Priority": "High",
+        "Priority": "High"
 }
